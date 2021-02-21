@@ -2,11 +2,9 @@
 基于Python开发的一个多功能小程序
 
 # 下载
-您可以使用以下命令
-git clone https://github.com/HornCopper/WearOS.git
-推荐前往 https://github.com/HornCopper/WearOS/releases/ 下载
+前往 https://github.com/HornCopper/WearOS/releases/ 下载
 
-# v1.2.0全新升级！
+# v1.2.0全新升级！(开发中)
 1.修复作者的一个很低级的错误（if-if-else结构）
 2.此版本已闭源，开源版本并不确定，此次的源代码仅可在作者处以非营利性目的获取
 3.更改HTTP请求的库文件为requests(本来是urllib)
