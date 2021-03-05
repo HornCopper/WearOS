@@ -26,6 +26,9 @@
 # 灵感来源
 https://github.com/ZombieFly/AXbot
 
+# 注意！
+请不要下载Source code.zip或.tar.gz文件，这些并没有含有WearOS.
+
 # 联系作者
 1.QQ:3349104868
 2.微信:HornCopper
